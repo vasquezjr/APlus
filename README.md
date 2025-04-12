@@ -1,2 +1,2 @@
 # A Plus Notes
-## [PC Technician Responsibilities](PCTechResponsibilities/README.md)
+## [TroubeShooting](TroubleShooting/README.md)
