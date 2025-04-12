@@ -1,2 +1,2 @@
 # A Plus Notes
-## [TroubeShooting](TroubleShooting/README.md)
+## [TroubeShooting](TroubleShooting/)
