@@ -54,15 +54,15 @@ At this stage, you may find yourself circling all the way back to step one: Iden
 
 Once you’re confident you’ve found the fundamental issue, the next step is to prepare to solve the problem.
 
-### Establish a Plan of ACtion and Implement the Solution
+### Establish a Plan of Action and Implement the Solution
 
 If you believe you know the root cause of the troubleshooting issue, you can now plan how to address it. Here are some reasons to plan ahead before blindly jumping into a course of action:
 Some fixes require reboots or other more significant forms of downtime
 You may need to download software, patches, drivers or entire operating system files before proceeding
 Your change management procedures may require you to test modifications to a system’s configuration in a staging environment before implementing the fix in production
-You may need to document a series of complex steps, commands and scripts
-You may need to back up data that might be put at risk during the recovery
-You may need approval from other IT staff members before making changes
+*You may need to document a series of complex steps, commands and scripts
+*You may need to back up data that might be put at risk during the recovery
+*You may need approval from other IT staff members before making changes
 Once you’ve completed this stage, you’re now ready to do whatever it is you believe you need to do to solve the problem.
 
 These steps may include:
