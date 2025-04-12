@@ -23,13 +23,13 @@ As troubleshooters, you want to be very careful to ensure you have identified th
 
 Specific steps here may include:
 
-Gathering information from log files and error messages
-Questioning users
-Identifying symptoms
-Determining recent changes
-Duplicating the problem
-Approaching multiple problems one at a time
-Narrowing the scope of the problem
+* Gathering information from log files and error messages
+* Questioning users
+* Identifying symptoms
+* Determining recent changes
+* Duplicating the problem
+* Approaching multiple problems one at a time
+* Narrowing the scope of the problem
 
 ### Establish a Theory of Probably Cause
 	
@@ -39,8 +39,8 @@ This step may require significant research on your part. Vendor documentation, y
 
 Specific steps here may include:
 
-Questioning the obvious
-Considering multiple approaches, including top-to-bottom or bottom-to-top for layered technologies (such as networks)
+* Questioning the obvious
+* Considering multiple approaches, including top-to-bottom or bottom-to-top for layered technologies (such as networks)
 
 ### Test the Theory to Determine the Cause
 
@@ -60,18 +60,18 @@ If you believe you know the root cause of the troubleshooting issue, you can now
 Some fixes require reboots or other more significant forms of downtime
 You may need to download software, patches, drivers or entire operating system files before proceeding
 Your change management procedures may require you to test modifications to a system’s configuration in a staging environment before implementing the fix in production
-*You may need to document a series of complex steps, commands and scripts
-*You may need to back up data that might be put at risk during the recovery
-*You may need approval from other IT staff members before making changes
-Once you’ve completed this stage, you’re now ready to do whatever it is you believe you need to do to solve the problem.
+* You may need to document a series of complex steps, commands and scripts
+* You may need to back up data that might be put at risk during the recovery
+* You may need approval from other IT staff members before making changes
+* Once you’ve completed this stage, you’re now ready to do whatever it is you believe you need to do to solve the problem.
 
 These steps may include:
 
-Run your scripts
-Update your systems or software
-Edit configuration files
-Change firewall settings
-Make sure that you have a rollback plan in place in case the fix you’re attempting does not address the issue. You must be able to reverse your settings to at least get back to where you began.
+* Run your scripts
+* Update your systems or software
+* Edit configuration files
+* Change firewall settings
+* Make sure that you have a rollback plan in place in case the fix you’re attempting does not address the issue. You must be able to reverse your settings to at least get back to where you began.
 
 In some cases, implementing the proposed fix may be quicker than the research phases that preceded it. Those research phases are essential, however, to make sure you’re addressing the real issue and to minimize downtime.
 
