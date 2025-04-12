@@ -9,3 +9,6 @@
   * Power Cords, Connnections, Comnon User Errors
 5. Test Your Theory
 6. Create an Action Plan
+7. Wrap Up
+  * Ensure Satisfaction
+  * Document Findings
