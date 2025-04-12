@@ -1,2 +1,2 @@
 # A Plus Notes
-## [TroubeShooting](TroubleShooting/)
+## [TroubleShooting](TroubleShooting/index.md)
